@@ -1,4 +1,4 @@
-Site com efeito Paralax do filme Dr.Estranho 2 no multiverso da loucura
+Site com efeito Paralax do filme Dr.Estranho 2 no multiverso da loucura (versão não responsiva)
 
 link: https://viniznn777.github.io/DrEstranho/ (OBS: As duas últimas fotos dos atores principais não estão aparecendo, talvez por causa de Direitos)
 
